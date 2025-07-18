@@ -2,7 +2,7 @@
 A Minimal, Secure, and Beautiful Arch-Based Linux Distribution (Work in Progress)
 
 
-! [Logo of HyprDograOS] (./src/os-logo.png)
+! [Logo of HyprDograOS] (/src/os-logo.png)
 
 ## About This Project
 Hello. My name is Uday Dogra, and I’m quietly working on something called HyprDograOS. It’s a Linux distribution based on Arch Linux, built using Wayland and the Hyprland window manager. I started this project because I wanted an operating system that feels fast, looks modern, and respects my privacy — all at the same time.
